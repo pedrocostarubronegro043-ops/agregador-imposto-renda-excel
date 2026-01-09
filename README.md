@@ -1,4 +1,4 @@
-[readme.md](https://github.com/user-attachments/files/24512313/readme.md)
+[readme.md](https://github.com/user-attachments/files/24512350/readme.md)
 # 🦁 Agregador de Dados para Imposto de Renda (DIRPF)
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -37,19 +37,19 @@ Para a construção desta ferramenta, foram aplicados os seguintes conhecimentos
 Abaixo estão as visualizações das principais interfaces desenvolvidas:
 #### 1. Painel de menu incial
 Menu de encaminhamento e acesso para os demais
-![Dashboard Titular](imagens/dashboard1.png)
+![Dashboard Titular](imagens/DASHBOARD1.png)
 
 #### 1. Painel do Titular e Identificação
 Centraliza todos os dados biográficos e de contato do contribuinte.
-![Dashboard Titular](imagens/dashboard2.png)
+![Dashboard Titular](imagens/DASHBOARD2.png)
 
 #### 2. Monitor de Informes Bancários
 Agregador visual da distribuição de saldos por instituição financeira.
-![Dashboard Informes](imagens/dashboard3.png)
+![Dashboard Informes](imagens/DASHBOARD3.png)
 
 #### 3. Gestão de Notas e Fluxo de Rendimentos
 Registro cronológico de entradas mensais (salários e rendas).
-![Dashboard Notas](imagens/dashboard4.png)
+![Dashboard Notas](imagens/DASHBOARD4.png)
 
 
 
