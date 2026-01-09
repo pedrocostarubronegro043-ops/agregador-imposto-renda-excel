@@ -64,5 +64,5 @@ Registro cronológico de entradas mensais (salários e rendas).
 
 Desenvolvido por **Felipe Skywalker Nobunaga** como parte do desafio de projeto na **DIO (Digital Innovation One)**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-costa-alves-7a6030318/?skipRedirect=true)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrocostarubronegro043-ops)
